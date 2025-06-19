@@ -1,0 +1,12 @@
+{
+  "name": "hallo",
+  "songs": [
+    {
+      "title": "Andalusian Love",
+      "genre": "unknown",
+      "artist": "Dag Reinbott",
+      "album": "TerraSound.de",
+      "path": "src/main/resources/mp3_files/Dag Reinbott - Andalusian Love.mp3"
+    }
+  ]
+}
